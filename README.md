@@ -9,4 +9,7 @@ Data:
 Reference:
 https://www.nature.com/articles/s41746-020-00372-6
 
- 
+> Accuracy score of LightGBM
+
+ ![cd](https://user-images.githubusercontent.com/104635748/187185240-0d4d959b-df50-4722-a1ce-e898c2cb334e.png)
+
